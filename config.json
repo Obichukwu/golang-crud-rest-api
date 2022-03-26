@@ -1,0 +1,5 @@
+{
+    "mysql_connection_string": "root:root@tcp(127.0.0.1:3306)/crud_demo",
+    "sqlite_connection_string": "crud_demo.db",
+    "port": 8080
+}
